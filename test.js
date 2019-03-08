@@ -1,7 +1,7 @@
 const age = "100";
 document.write(age);
 
-const somehting = "ddd";
+const somehting = "dddd";
 
 const test = [
   { name: "something to talk about", shit: 10 },
